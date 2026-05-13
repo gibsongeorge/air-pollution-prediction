@@ -83,6 +83,11 @@ air-pollution-prediction/
 ├── requirements.txt
 └── README.md
 ```
+# Project Preview
+![Project Preview](Screenshot 2025-09-17 001802.png)
+![Project Preview](Screenshot 2025-09-17 001819.png)
+
+---
 # Project Goal
 
 The goal of this project is to predict air quality levels using machine learning techniques and provide an interactive interface for users to test predictions in real time.
